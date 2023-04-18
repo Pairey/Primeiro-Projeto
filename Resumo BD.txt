@@ -1,0 +1,1 @@
+Banco de dados é um sistema computadorizado de manutenção de registros. Os usuários podem realizar e/ou solicitar melhorias em diversas operações como acrescentar novos arquivos.
